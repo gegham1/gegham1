@@ -1,7 +1,7 @@
 
 # Hi, I'm Gegham 👋
 
-Building **[Cotracer](https://cotracer.ai)**: the quality gate for microservices.
+Building **[Cotracer](https://cotracer.ai)**: a new type of quality gate for microservices.
 
 > Code review verifies the implementation. Cotracer verifies the impact.
 
