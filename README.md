@@ -22,4 +22,4 @@ Cotracer checks every pull request against your real production traces, logs and
 Python · LangGraph · FastAPI · OpenTelemetry · Kubernetes/Helm · LLM agents & evals
 
 ### Elsewhere
-[cotracer.ai](https://cotracer.ai) · [LinkedIn](https://www.linkedin.com/in/gegham9)
+[cotracer.ai](https://cotracer.ai) · [LinkedIn](https://www.linkedin.com/in/gegham9) · [x.com](https://x.com/gegham999)
