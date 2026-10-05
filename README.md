@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**gegham1/gegham1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Gegham 👋
 
-Here are some ideas to get you started:
+Founder of **[Cotracer](https://cotracer.ai)**: the quality gate for microservices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Code review verifies the implementation. Cotracer verifies the impact.
+
+Cotracer checks every pull request against your real production traces, logs and code, and reports which services break **before merge**, with evidence for every finding.
+
+- 🔍 Diff in → trace-grounded breakage report out
+- 🧾 Every finding cites a trace ID, log line or `file:line`
+- 🏢 Runs on-prem, bring your own LLM, works with your existing telemetry (OpenTelemetry, Jaeger, OpenSearch)
+- 🚦 HIGH risk blocks the merge
+
+▶️ **[Watch the demo](https://www.youtube.com/watch?v=mgjmqceO9yE)**
+
+### Now
+- Running design-partner pilots with platform/SRE teams. [Get in touch](https://cotracer.ai)
+- Looking for a **go-to-market co-founder** with an SRE/platform background. DM me
+
+### Stack
+Python · LangGraph · FastAPI · OpenTelemetry · Kubernetes/Helm · LLM agents & evals
+
+### Elsewhere
+[cotracer.ai](https://cotracer.ai) · [LinkedIn](https://www.linkedin.com/in/gegham9) · [YouTube](https://www.youtube.com/watch?v=mgjmqceO9yE)
