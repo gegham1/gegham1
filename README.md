@@ -1,7 +1,7 @@
 
 # Hi, I'm Gegham 👋
 
-Founder of **[Cotracer](https://cotracer.ai)**: the quality gate for microservices.
+Building **[Cotracer](https://cotracer.ai)**: the quality gate for microservices.
 
 > Code review verifies the implementation. Cotracer verifies the impact.
 
@@ -22,4 +22,4 @@ Cotracer checks every pull request against your real production traces, logs and
 Python · LangGraph · FastAPI · OpenTelemetry · Kubernetes/Helm · LLM agents & evals
 
 ### Elsewhere
-[cotracer.ai](https://cotracer.ai) · [LinkedIn](https://www.linkedin.com/in/gegham9) · [YouTube](https://www.youtube.com/watch?v=mgjmqceO9yE)
+[cotracer.ai](https://cotracer.ai) · [LinkedIn](https://www.linkedin.com/in/gegham9)
